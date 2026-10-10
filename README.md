@@ -10,7 +10,6 @@ An AI-powered insurance analysis system with React frontend and FastAPI backend.
 ```bash
 start.bat
 ```
-
 **Unix/Linux/Mac:**
 ```bash
 ./start.sh
